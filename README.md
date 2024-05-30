@@ -28,3 +28,7 @@ npm run dev
 npm run build
 ```
 "# to-vue" 
+
+### Bootstrap
+
+``npm i bootstrap@5.3.3``
